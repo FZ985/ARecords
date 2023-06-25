@@ -16,6 +16,8 @@
 
 [悬浮窗](https://github.com/yhaolpz/FloatWindow)
 
+[悬浮球](https://github.com/yixiaolunhui/SuspendedBall)
+
 [CardSwipeLayout仿探探的卡片滑动](https://github.com/yuqirong/CardSwipeLayout)
 
 [SwipeCardView 探探效果](https://github.com/xiepeijie/SwipeCardView)
@@ -54,6 +56,8 @@
 
 [ExpandableTextView 折叠展开的textview](https://github.com/MZCretin/ExpandableTextView)
 
+[ExpandableTextView 折叠展开的tetview](https://github.com/Manabu-GT/ExpandableTextView)
+
 [AndroidMosaicLayout 不规则的图片列表展示](https://github.com/adhamenaya/AndroidMosaicLayout)
 
 [PageFlip 小说翻页效果](https://github.com/eschao/android-PageFlip)
@@ -75,6 +79,10 @@
 [下载](https://github.com/Justson/Downloader)
 
 [OK download 下载](https://github.com/lingochamp/okdownload)
+
+[FileDownloader 文件下载](https://github.com/lingochamp/FileDownloader)
+
+[FastDownloader 文件下载](https://github.com/Tamicer/FastDownloader)
 
 [SmartSwipe 智能侧滑](https://github.com/luckybilly/SmartSwipe)
 
@@ -140,9 +148,17 @@
 
 [PlayerBase 播放器](https://github.com/jiajunhui/PlayerBase)
 
+[JiaoZiVideoPlayer 播放器](https://github.com/lipangit/JiaoZiVideoPlayer)
+
+[GSYVideoPlayer 播放器](https://github.com/CarGuo/GSYVideoPlayer)
+
 [GroupedRecyclerViewAdapter adapter分组实现](https://github.com/donkingliang/GroupedRecyclerViewAdapter)
 
 [AnyChart-Android 折线图](https://github.com/AnyChart/AnyChart-Android)
+
+[MPAndroidChart 折线图](https://github.com/PhilJay/MPAndroidChart)
+
+[HelloCharts 折线图](https://github.com/lecho/hellocharts-android)
 
 [SmartTable 表格框架](https://github.com/huangyanbin/smartTable)
 
@@ -238,6 +254,12 @@
 
 [sticky-headers-recyclerview 吸顶recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
 
+[ScrollableLayout 吸顶](https://github.com/w446108264/ScrollableLayout)
+
+[ScrollableLayout 吸顶](https://github.com/cpoopc/ScrollableLayout)
+
+[StickyNavLayout 吸顶](https://github.com/hongyangAndroid/Android-StickyNavLayout)
+
 [okhttp 的封装](https://github.com/majunm/HttpX)
 
 [aes 加解密](https://github.com/majunm/encryptanddecrypt)
@@ -264,7 +286,13 @@
 
 [SwipeBackLayout 侧滑返回](https://github.com/ikew0ng/SwipeBackLayout)
 
-[SmartRefreshLayout 只能下拉刷新](https://github.com/scwang90/SmartRefreshLayout)
+[SmartRefreshLayout 智能下拉刷新](https://github.com/scwang90/SmartRefreshLayout)
+
+[TwinklingRefreshLayout 下拉刷新](https://github.com/lcodecorex/TwinklingRefreshLayout)
+
+[ BGARefreshLayout-Android 下拉刷新](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+
+[Ultra Pull To Refresh 下拉刷新](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
 [zxing 二维码](https://github.com/zxing/zxing)
 
@@ -330,9 +358,101 @@
 
 [AndroidKeepLivePractice 进程保活](https://github.com/isuperqiang/AndroidKeepLivePractice)
 
+[微信 QQ 多图片分享](https://github.com/dzs-yaodi/ShareMoreImage)
+
+[SpringView 一个提供了上下拖拽的功能组件](https://github.com/liaoinstan/SpringView)
+
+[WaveView 水波纹组件](https://github.com/gelitenight/WaveView)
+
+[WaveLoadingView 水波纹loading](https://github.com/tangqi92/WaveLoadingView)
+
+[缓存库](https://github.com/hongyangAndroid/base-diskcache)
+
+[PersistentCookieJar for OkHttp 3](https://github.com/franmontiel/PersistentCookieJar)
+
+[仿qq身边的人Viewpager实现](https://github.com/yixiaolunhui/SlidingBallViewPager)
+
+[仿qq身边的人recycleview实现](https://github.com/yixiaolunhui/GalleryRecycleView)
+
+[Swipecards 侧滑](https://github.com/Diolor/Swipecards)
+
+[Android Swipe Layout 侧滑](https://github.com/daimajia/AndroidSwipeLayout)
+
+[SlideLayout for Android 侧滑](https://github.com/Dsiner/SlideLayout)
+
+[模仿探探首页的卡片滑动效果 侧滑](https://github.com/xmuSistone/CardSlidePanel)
+
+[侧滑 高仿微信视差手势滑动返回库](https://github.com/oubowu/SlideBack)
+
+[侧滑 利用滑动手势退出当前Activity](https://github.com/XBeats/and_swipeback)
+
+[侧滑 SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
+
+[侧滑 bga](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+[TouchImageView for Android 手势图片缩放](https://github.com/MikeOrtiz/TouchImageView)
+
+[PhotoView 图片浏览缩放控件](https://github.com/bm-x/PhotoView)
+
+[jadx - Dex to Java decompiler](https://github.com/skylot/jadx)
+
+[AndroidElementals 一些收集文档](https://github.com/PhilJay/AndroidElementals)
+
+[Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
+
+[ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、ViewPager、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。](https://github.com/donkingliang/ConsecutiveScroller)
+
+[RecyclerLayoutManager](https://github.com/angcyo/RecyclerLayoutManager)
+
+[VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。](https://github.com/alibaba/vlayout/tree/master)
+
+[Material Dialogs](https://github.com/afollestad/material-dialogs)
+
+[自定义组件集合](https://github.com/HpWens/MeiWidgetView)
+
+[Android 工具类](https://github.com/Blankj/AndroidUtilCode)
+
+[EasyBehavior](https://github.com/JmStefanAndroid/EasyBehavior)
+
+[appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
+
+[流程图效果，可以用在订单步骤等方面](https://github.com/GinSmile/FlowViewDemo)
+
+[OverScrollDecor 类似IOS的over-scrolling效果](https://github.com/jeasonlzy/OverScrollDecor)
+
+[Over-Scroll Support For Android's RecyclerView](https://github.com/EverythingMe/overscroll-decor)
+
+[基于Three.js的3D框架，支持移动设备以及VR效果 ](https://github.com/HypnosNova/ThreeQuery)
+
 []()
 
+[]()
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
 
