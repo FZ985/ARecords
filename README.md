@@ -84,8 +84,6 @@
 
 [FastDownloader 文件下载](https://github.com/Tamicer/FastDownloader)
 
-[SmartSwipe 智能侧滑](https://github.com/luckybilly/SmartSwipe)
-
 [Screen Recorder屏幕录制](https://github.com/yrom/ScreenRecorder)
 
 [SelectTextHelper 高仿微信聊天消息列表自由复制文字，双击查看文本内容](https://github.com/ITxiaoguang/SelectTextHelper)
@@ -286,8 +284,6 @@
 
 [EasyTransition 过渡动画](https://github.com/huzenan/EasyTransition)
 
-[SwipeBackLayout 侧滑返回](https://github.com/ikew0ng/SwipeBackLayout)
-
 [SmartRefreshLayout 智能下拉刷新](https://github.com/scwang90/SmartRefreshLayout)
 
 [TwinklingRefreshLayout 下拉刷新](https://github.com/lcodecorex/TwinklingRefreshLayout)
@@ -392,6 +388,12 @@
 
 [侧滑 bga](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 
+[SwipeBackLayout 侧滑返回](https://github.com/ikew0ng/SwipeBackLayout)
+
+[SmartSwipe 智能侧滑](https://github.com/luckybilly/SmartSwipe)
+
+[Slidr 侧滑](https://github.com/r0adkll/Slidr)
+
 [TouchImageView for Android 手势图片缩放](https://github.com/MikeOrtiz/TouchImageView)
 
 [PhotoView 图片浏览缩放控件](https://github.com/bm-x/PhotoView)
@@ -428,33 +430,81 @@
 
 [MagicIndicator](https://github.com/hackware1993/MagicIndicator)
 
-[]()
+[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)
 
-[]()
+[UltraViewPager](https://github.com/alibaba/UltraViewPager)
 
-[]()
+[相机 MagicCamera](https://github.com/wuhaoyu1990/MagicCamera)
 
-[]()
+[相机 StickerCamera](https://github.com/Skykai521/StickerCamera)
 
-[]()
+[ZXingGenerator 二维码](https://github.com/vivian8725118/ZXingGenerator)
 
-[]()
+[BGAQRCode-Android 二维码](https://github.com/bingoogolapple/BGAQRCode-Android)
 
-[]()
+[picker 选择器](https://github.com/gzu-liyujiang/AndroidPicker)
 
-[]()
+[picker 选择器](https://github.com/AigeStudio/WheelPicker)
 
-[]()
+[activityanimation](https://github.com/flavienlaurent/activityanimation)
 
-[]()
+[播放视频时，能够拖拽的方案](https://github.com/smartyuge/DragVideo)
 
-[]()
+[仿爱奇艺视频，腾讯视频，搜狐视频首页推荐位轮播图](https://github.com/smartyuge/SuperIndicator)
 
-[]()
+[ImageView 裁剪](https://github.com/ArthurHub/Android-Image-Cropper)
 
-[]()
+[ImageView 裁剪](https://github.com/steelkiwi/cropiwa)
 
-[]()
+[StatusBarUtil 状态栏](https://github.com/laobie/StatusBarUtil)
+
+[ImageView 裁剪](https://github.com/jdamcd/android-crop)
+
+[GestureViews](https://github.com/alexvasilkov/GestureViews)
+
+[ImageView 滤镜](https://github.com/beartung/insta-filter)
+
+[ImageView 滤镜](https://github.com/disert/ImageEditDemo)
+
+[ImageView 滤镜 编辑](https://github.com/jarlen/PhotoEdit)
+
+[ImageView 滤镜Instagram Filters for Android](https://github.com/sangmingming/android-instagram-filter)
+
+[GPUImage for Android滤镜](https://github.com/cats-oss/android-gpuimage)
+
+[ImageView 滤镜](https://github.com/Learzhu/ImageFilterForAndroid-master)
+
+[ImageFilterForAndroid 滤镜](https://github.com/daizhenjun/ImageFilterForAndroid)
+
+[ImageView 滤镜](https://github.com/MichaelSun/ImageFilter)
+
+[ImageView 滤镜](https://github.com/lions88/ImageFilter)
+
+[AnimateGradientView 渐变动画](https://github.com/skyfe79/AnimateGradientView)
+
+[DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView)
+
+[CountdownView 使用一个TextView来实现丰富的倒计时功能](https://github.com/wangsai-silence/CountDownView)
+
+[模仿的是淘宝客户端Android版本，首页上面的抢购倒计时的效果。](https://github.com/ZhaoKaiQiang/RushBuyCountDownTimerView)
+
+[优惠券](https://github.com/dongjunkun/CouponView)
+
+[WeChatPswKeyboard 高仿微信数字键盘、支付键盘（密码键盘）](https://github.com/zuiwuyuan/WeChatPswKeyboard)
+
+[banner 轮播](https://github.com/youth5201314/banner)
+
+[glide-transformations](https://github.com/wasabeef/glide-transformations)
+
+[保活](https://github.com/xingda920813/HelloDaemon)
+
+[保活](https://github.com/D-clock/AndroidDaemonService)
+
+[保活](https://github.com/Marswin/MarsDaemon)
+
+[侧滑 删除](https://github.com/yanzhenjie/SwipeRecyclerView)
+
+[RelativeLayoutDemo](https://github.com/MZCretin/RelativeLayoutDemo)
 
 
 
