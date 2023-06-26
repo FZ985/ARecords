@@ -506,6 +506,12 @@
 
 [RelativeLayoutDemo](https://github.com/MZCretin/RelativeLayoutDemo)
 
+[视频裁剪](https://github.com/iknow4/Android-Video-Trimmer)
+
+[TakePhoto 相册](https://github.com/crazycodeboy/TakePhoto)
+
+[EventBus](https://github.com/greenrobot/EventBus)
+
 
 
 
