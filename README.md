@@ -260,6 +260,8 @@
 
 [StickyNavLayout 吸顶](https://github.com/hongyangAndroid/Android-StickyNavLayout)
 
+[PinnedSectionItemDecoration 吸顶](https://github.com/oubowu/PinnedSectionItemDecoration)
+
 [okhttp 的封装](https://github.com/majunm/HttpX)
 
 [aes 加解密](https://github.com/majunm/encryptanddecrypt)
@@ -424,7 +426,7 @@
 
 [基于Three.js的3D框架，支持移动设备以及VR效果 ](https://github.com/HypnosNova/ThreeQuery)
 
-[]()
+[MagicIndicator](https://github.com/hackware1993/MagicIndicator)
 
 []()
 
