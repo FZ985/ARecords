@@ -4,6 +4,8 @@
 
 [RecyclerView 布局管理器](https://github.com/DingMouRen/LayoutManagerGroup)
 
+[RecyclerView 布局管理器](https://github.com/mcxtzhang/ZLayoutManager)
+
 [TextSurface](https://github.com/elevenetc/TextSurface)
 
 [AndroidRibbon](https://github.com/skydoves/AndroidRibbon)
