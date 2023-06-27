@@ -1,3 +1,5 @@
+[环形菜单控件](https://github.com/DingMouRen/AnnularMenuView)
+
 [RecyclerView 布局管理器](https://github.com/DingMouRen/LayoutManagerGroup)
 
 [TextSurface](https://github.com/elevenetc/TextSurface)
